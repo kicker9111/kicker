@@ -1,0 +1,23 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charest="utf-8">
+  
+  <title>HTML TEMOLATE</title>
+  <meta name+"description" content="text here">
+  <meta name="kicker" content="SitePoint">
+  
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  
+  <!--[if it IE 9]>
+    <script
+src=https://kicker.sight.com/begenings">
+</script>
+  <![endif}-->
+</head>
+
+<body>
+  script src="js/scripts"></script>
+  </body>
+  </html>
